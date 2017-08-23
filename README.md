@@ -27,4 +27,10 @@ maybe make scripts executable by running
 
 `chmod +x /root/utils/oc_nv.sh /root/utils/rclocal.sh`
 
+and finally
+
+`update-grub`
+
+`update-initramfs -u`
+
 `reboot`
